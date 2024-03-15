@@ -6,3 +6,6 @@ Room layouts:
 	- Black = Tile
 	- White = Empty Space
 - Colors have to be fully white or fully black. Nothing in between
+
+
+Add as many as you can think of)
